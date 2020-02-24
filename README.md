@@ -1,1 +1,1 @@
-# HackerRankSolutionsDataStructures
+ Hacker Rank Solutions DataS tructures
