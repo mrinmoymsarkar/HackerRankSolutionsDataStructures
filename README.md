@@ -1,1 +1,1 @@
- Hacker Rank Solutions Data structures
+ Hackerank Solutions Data structures
